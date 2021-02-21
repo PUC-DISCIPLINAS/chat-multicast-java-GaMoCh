@@ -1,0 +1,10 @@
+*
+
+!/src
+!/src/**
+
+!/bin
+!/bin/**
+
+!.gitignore
+!.editorconfig
